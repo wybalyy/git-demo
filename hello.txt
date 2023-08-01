@@ -1,6 +1,6 @@
 
 hello Git!hello world!
-22222222
+2222
 hello Git!hello world!
 hello Git!hello world!
 hello Git!hello world!
